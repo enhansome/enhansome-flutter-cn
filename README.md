@@ -337,7 +337,7 @@
 
 ### 分析
 
-* [Firebase Analytics](https://github.com/FirebaseExtended/flutterfire/tree/master/packages/firebase_analytics) ⭐ 9,247 | 🐛 69 | 🌐 Dart | 📅 2026-08-19 - 连接到 Firebase Analytics API。
+* [Firebase Analytics](https://github.com/FirebaseExtended/flutterfire/tree/master/packages/firebase_analytics) ⭐ 9,247 | 🐛 70 | 🌐 Dart | 📅 2026-08-19 - 连接到 Firebase Analytics API。
 * [Usage](https://github.com/dart-lang/usage) ⚠️ Archived \[123⭐] - 用于命令行、Web 和 Flutter 应用程序的 Google Analytics 封装。
 * [Pure Mixpanel](https://github.com/seenickcode/pure_mixpanel) ⭐ 25 | 🐛 2 | 🌐 Dart | 📅 2020-11-25 \[21⭐] - 用于流行的 [Mixpanel.com](https://mixpanel.com) 的分析工具，由 [Nick Manning](https://twitter.com/seenickcode) 制作。
 
@@ -365,7 +365,7 @@
 #### 视频
 
 * [WebRTC](https://github.com/cloudwebrtc/flutter-webrtc) ⭐ 4,485 | 🐛 691 | 🌐 C++ | 📅 2026-08-19 \[2747⭐] - iOS/Android 的 WebRTC 插件，由 [CloudWebRtc](https://github.com/cloudwebrtc) 制作。
-* [Chewie](https://github.com/brianegan/chewie) ⭐ 2,061 | 🐛 446 | 🌐 Dart | 📅 2026-08-12 \[1353⭐] - 提供对视频播放的低级访问，由 [Brian Egan](https://github.com/brianegan) 制作。
+* [Chewie](https://github.com/brianegan/chewie) ⭐ 2,062 | 🐛 446 | 🌐 Dart | 📅 2026-08-12 \[1353⭐] - 提供对视频播放的低级访问，由 [Brian Egan](https://github.com/brianegan) 制作。
 * [CamerAwesome](https://github.com/Apparence-io/camera_awesome) ⭐ 1,215 | 🐛 205 | 🌐 Dart | 📅 2026-04-08 \[295⭐] - 社区相机插件改版，由 [Apparence.io studio](https://apparence.io) 制作。
 * [Video Trimmer](https://github.com/sbis04/video_trimmer) ⭐ 491 | 🐛 47 | 🌐 Dart | 📅 2025-04-27 \[276⭐] - 可视化和修剪视频，由 [Souvik Biswas](https://github.com/sbis04) 制作。
 
@@ -385,7 +385,7 @@
 
 ### 赚钱
 
-* [Firebase AdMob](https://github.com/FirebaseExtended/flutterfire/tree/master/packages/firebase_admob) ⭐ 9,247 | 🐛 69 | 🌐 Dart | 📅 2026-08-19 - 使用 Firebase 进行广告集成。
+* [Firebase AdMob](https://github.com/FirebaseExtended/flutterfire/tree/master/packages/firebase_admob) ⭐ 9,247 | 🐛 70 | 🌐 Dart | 📅 2026-08-19 - 使用 Firebase 进行广告集成。
 * [Inapp Purchase](https://github.com/dooboolab/flutter_inapp_purchase) ⚠️ Archived \[464⭐] - 从 [react-native-iap](https://github.com/dooboolab/react-native-iap) ⚠️ Archived 派生的“应用内购买”功能集合，由 [dooboolab](https://github.com/dooboolab) 制作。
 * [Admob Flutter](https://github.com/kmcgill88/admob_flutter) ⭐ 434 | 🐛 114 | 🌐 Dart | 📅 2024-08-12 - 使用原生平台视图显示横幅广告的 Admob 插件，由 [Youssef Kababe](https://github.com/YoussefKababe) 和 [Kevin McGill](https://github.com/kmcgill88) 制作。
 * [Square In-App Payments SDK](https://github.com/square/in-app-payments-flutter-plugin) ⭐ 341 | 🐛 13 | 🌐 Objective-C | 📅 2026-07-23 \[283⭐] - 在应用中嵌入卡片输入表单以生成顾客提供的卡片信息或数字钱包的 Nonce，以进行支付，由 [Square](https://github.com/orgs/square) 制作。
@@ -498,7 +498,7 @@
 
 * [Bloc](https://github.com/felangel/bloc) ⭐ 12,484 | 🐛 83 | 🌐 Dart | 📅 2026-08-10 \[8181⭐] - 一套帮助实现 BLoC 设计模式的包集合，由 [Felix Angelov](https://github.com/felangel) 开发。
 * [GetX](https://github.com/jonataslaw/getx) ⭐ 11,196 | 🐛 1,175 | 🌐 Dart | 📅 2026-06-12 <!--jonataslaw/getx--> - 无需上下文的状态管理和导航，由 [Jonny Borges](https://github.com/jonataslaw) 开发。
-* [RiverPod](https://github.com/rrousselGit/river_pod) ⭐ 7,370 | 🐛 155 | 🌐 Dart | 📅 2026-08-17 \[2214⭐] - Provider 的不同实现，由 [Remi Rousselet](https://github.com/rrousselGit) 开发。
+* [RiverPod](https://github.com/rrousselGit/river_pod) ⭐ 7,370 | 🐛 156 | 🌐 Dart | 📅 2026-08-17 \[2214⭐] - Provider 的不同实现，由 [Remi Rousselet](https://github.com/rrousselGit) 开发。
 * [Provider](https://github.com/rrousselGit/provider) ⭐ 5,255 | 🐛 38 | 🌐 Dart | 📅 2026-03-10 \[3974⭐] - Flutter 的状态管理库，由 [Remi Rousselet](https://github.com/rrousselGit) 开发。
 * [MobX](https://github.com/mobxjs/mobx.dart) ⭐ 2,466 | 🐛 76 | 🌐 Dart | 📅 2026-07-31 \[2037⭐] - 使用透明功能响应式编程（TFRP）来增强应用程序中的状态管理。从 Js/React 领域移植的 MobX。
 * [Binder](https://github.com/letsar/binder) ⭐ 178 | 🐛 4 | 🌐 Dart | 📅 2022-08-08 \[167⭐] - 一种轻量而强大的将应用程序状态与业务逻辑绑定的方式，由 [Romain Rastel](https://github.com/letsar) 开发。
@@ -520,7 +520,7 @@
 
 ### 数据
 
-* [Graphql](https://github.com/zino-app/graphql-flutter) ⭐ 3,269 | 🐛 164 | 🌐 Dart | 📅 2026-07-28 \[2796⭐] - GraphQL 规范的实现，由 [Zino App B.V.](https://github.com/zino-app) 开发。
+* [Graphql](https://github.com/zino-app/graphql-flutter) ⭐ 3,270 | 🐛 164 | 🌐 Dart | 📅 2026-07-28 \[2796⭐] - GraphQL 规范的实现，由 [Zino App B.V.](https://github.com/zino-app) 开发。
 * [Ferry](https://github.com/gql-dart/ferry) ⭐ 636 | 🐛 102 | 🌐 Dart | 📅 2026-07-05 \[334⭐] - 强大且可扩展的 GraphQL 客户端，由 [Sat Mandir Khalsa](https://github.com/smkhalsa) 开发。
 * [GeoFlutterFire](https://github.com/DarshanGowda0/GeoFlutterFire) ⭐ 305 | 🐛 81 | 🌐 Dart | 📅 2024-06-25 \[244⭐] - Flutter 的 GeoFirestore 实现，由 [Darshan Gowda](https://darshann.me/) 开发。
 
@@ -584,7 +584,7 @@
 
 ### 高级
 
-* [AppFlowy](https://github.com/AppFlowy-IO/appflowy) ⭐ 75,712 | 🐛 998 | 🌐 Dart | 📅 2026-08-11 \[12156⭐] - 开源的 Notion 替代方案。你对数据和自定义有绝对控制。使用 Flutter 和 Rust 构建，由 [AppFlowy 团队](https://www.appflowy.io/) 开发。
+* [AppFlowy](https://github.com/AppFlowy-IO/appflowy) ⭐ 75,718 | 🐛 998 | 🌐 Dart | 📅 2026-08-11 \[12156⭐] - 开源的 Notion 替代方案。你对数据和自定义有绝对控制。使用 Flutter 和 Rust 构建，由 [AppFlowy 团队](https://www.appflowy.io/) 开发。
 * [History Of Everything](https://github.com/2d-inc/HistoryOfEverything) ⭐ 6,582 | 🐛 56 | 🌐 Dart | 📅 2021-09-22 \[5887⭐] - 人类历史的动画垂直时间线，由 [2D, Inc](https://www.2dimensions.com/) 开发。
 * [Developer Quest](https://github.com/2d-inc/developer_quest) ⭐ 2,969 | 🐛 35 | 🌐 Dart | 📅 2021-05-05 \[2917⭐] - 成为技术领导者，消灭虫子，由 [2D, Inc](https://www.2dimensions.com/) 开发。
 

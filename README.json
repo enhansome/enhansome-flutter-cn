@@ -75,7 +75,7 @@
                 "last_commit": "2026-06-08T15:16:31Z",
                 "owner": "flutter-team-archive",
                 "repo": "gallery",
-                "stars": 6574
+                "stars": 6575
               }
             },
             {
@@ -1907,7 +1907,7 @@
                 "archived": false,
                 "id": 202429703,
                 "language": "Dart",
-                "last_commit": "2026-08-19T07:53:20Z",
+                "last_commit": "2026-08-19T11:46:18Z",
                 "owner": "firebase",
                 "repo": "flutterfire",
                 "stars": 9247
@@ -2135,7 +2135,7 @@
                     "last_commit": "2026-08-12T20:48:47Z",
                     "owner": "fluttercommunity",
                     "repo": "chewie",
-                    "stars": 2061
+                    "stars": 2062
                   }
                 },
                 {
@@ -2226,7 +2226,7 @@
                 "archived": false,
                 "id": 202429703,
                 "language": "Dart",
-                "last_commit": "2026-08-19T07:53:20Z",
+                "last_commit": "2026-08-19T11:46:18Z",
                 "owner": "firebase",
                 "repo": "flutterfire",
                 "stars": 9247
@@ -3508,7 +3508,7 @@
                 "last_commit": "2026-07-28T12:37:08Z",
                 "owner": "zino-hofmann",
                 "repo": "graphql-flutter",
-                "stars": 3269
+                "stars": 3270
               }
             },
             {
@@ -3945,7 +3945,7 @@
                 "last_commit": "2026-08-11T13:01:19Z",
                 "owner": "AppFlowy-IO",
                 "repo": "AppFlowy",
-                "stars": 75712
+                "stars": 75718
               }
             },
             {
@@ -4788,8 +4788,9 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T10:37:18.443Z",
+    "last_updated": "2026-08-19T12:28:29.178Z",
     "original_repository": "crazycodeboy/awesome-flutter-cn",
+    "original_repository_id": 138164876,
     "original_repository_sha": "9d2f999d197eaaed697f2d8cce350d18febe2056",
     "enhanced_repository": "enhansome/enhansome-flutter-cn",
     "enhanced_repository_description": null,
