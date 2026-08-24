@@ -7,6 +7,50 @@
           "children": [
             {
               "node_type": "item",
+              "title": "Awesome Flutter tips",
+              "description": "由 erluxman 提供的帮助开发人员提高生产力的提示。",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 260627194,
+                "language": "Dart",
+                "last_commit": "2022-09-30T09:08:06Z",
+                "owner": "erluxman",
+                "repo": "awesomefluttertips",
+                "stars": 2943
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "网站/博客"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Todo List",
+              "description": "[196⭐] – 一步步带你如何使用Flutter构建待办事项列表，由Andrei Lesnitsky提供。",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 160438463,
+                "language": "Dart",
+                "last_commit": "2023-06-26T22:49:38Z",
+                "owner": "lesnitsky",
+                "repo": "todolist_flutter",
+                "stars": 339
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "教程"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
               "title": "Flutter开发路线图",
               "description": "[2795⭐] - 由Olexandr Leuschenko制作的Flutter新手可视化路线图，包含原则、模式和框架。",
               "children": [],
@@ -90,7 +134,7 @@
                 "last_commit": "2026-05-24T21:11:49Z",
                 "owner": "X-Wei",
                 "repo": "flutter_catalog",
-                "stars": 2286
+                "stars": 2287
               }
             },
             {
@@ -933,6 +977,28 @@
               "children": [
                 {
                   "node_type": "item",
+                  "title": "Peek & Pop",
+                  "description": "[138⭐] - 基于iOS功能的Peek＆Pop实现，由Ali Yigit Bireroglu提供。",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 200831064,
+                    "language": "Dart",
+                    "last_commit": "2020-10-16T10:02:25Z",
+                    "owner": "aliyigitbireroglu",
+                    "repo": "flutter-peek-and-pop",
+                    "stars": 236
+                  }
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "Cupertino 设计"
+            },
+            {
+              "children": [
+                {
+                  "node_type": "item",
                   "title": "闪光效果",
                   "description": "[1387⭐] - 在内容加载时显示闪光效果，由HungHD创建。",
                   "children": [],
@@ -1144,6 +1210,28 @@
               "description": null,
               "node_type": "group",
               "title": "登录"
+            },
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "动态小部件",
+                  "description": "[1100⭐] - 使用JSON构建动态用户界面，JSON格式与Flutter小部件代码非常相似，由 Denny Deng 制作。",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 167918394,
+                    "language": "Dart",
+                    "last_commit": "2025-06-25T12:35:01Z",
+                    "owner": "dengyin2000",
+                    "repo": "dynamic_widget",
+                    "stars": 1652
+                  }
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "基于后端驱动"
             }
           ],
           "description": null,
@@ -1907,7 +1995,7 @@
                 "archived": false,
                 "id": 202429703,
                 "language": "Dart",
-                "last_commit": "2026-08-24T09:10:15Z",
+                "last_commit": "2026-08-24T13:43:33Z",
                 "owner": "firebase",
                 "repo": "flutterfire",
                 "stars": 9252
@@ -1974,7 +2062,7 @@
                 "archived": false,
                 "id": 295669524,
                 "language": "TypeScript",
-                "last_commit": "2026-08-24T01:17:06Z",
+                "last_commit": "2026-08-24T11:22:13Z",
                 "owner": "fkirc",
                 "repo": "attranslate",
                 "stars": 358
@@ -2117,7 +2205,7 @@
                     "archived": false,
                     "id": 124166804,
                     "language": "C++",
-                    "last_commit": "2026-08-24T02:09:07Z",
+                    "last_commit": "2026-08-24T12:09:01Z",
                     "owner": "flutter-webrtc",
                     "repo": "flutter-webrtc",
                     "stars": 4485
@@ -2172,6 +2260,28 @@
               "description": null,
               "node_type": "group",
               "title": "视频"
+            },
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "Speech Recognition",
+                  "description": "[323⭐] - 语音转文本，由 Erick Ghaumez 制作。",
+                  "children": [],
+                  "repo_info": {
+                    "archived": true,
+                    "id": 94034244,
+                    "language": "Dart",
+                    "last_commit": "2022-10-15T10:14:13Z",
+                    "owner": "rxlabz",
+                    "repo": "speech_recognition",
+                    "stars": 335
+                  }
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "语音"
             }
           ],
           "description": null,
@@ -2209,6 +2319,28 @@
                 "repo": "flutter_secure_storage",
                 "stars": 1281
               }
+            },
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "Streaming Shared Preferences",
+                  "description": "基于流的键值存储，通过流实现共享首选项，由 Iiro Krankka 制作。",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 182518333,
+                    "language": "Dart",
+                    "last_commit": "2022-03-02T10:29:43Z",
+                    "owner": "roughike",
+                    "repo": "streaming_shared_preferences",
+                    "stars": 248
+                  }
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "首选项"
             }
           ],
           "description": null,
@@ -2226,7 +2358,7 @@
                 "archived": false,
                 "id": 202429703,
                 "language": "Dart",
-                "last_commit": "2026-08-24T09:10:15Z",
+                "last_commit": "2026-08-24T13:43:33Z",
                 "owner": "firebase",
                 "repo": "flutterfire",
                 "stars": 9252
@@ -2315,7 +2447,7 @@
             "last_commit": "2025-11-06T22:37:20Z",
             "owner": "brianegan",
             "repo": "flutter_architecture_samples",
-            "stars": 8927
+            "stars": 8926
           }
         },
         {
@@ -2667,6 +2799,28 @@
           "children": [
             {
               "node_type": "item",
+              "title": "GitTouch",
+              "description": "[979⭐] - GitHub，GitLab，Bitbucket和Gitea的开源移动客户端，由Rongjian Zhang提供。",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 130058573,
+                "language": "Dart",
+                "last_commit": "2024-07-28T22:09:55Z",
+                "owner": "pd4d10",
+                "repo": "git-touch",
+                "stars": 1694
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Clone"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
               "title": "m2gen",
               "description": "[1667⭐] - CLI工具可将ML模型转换为本地Dart代码，由BayesWitnesses。",
               "children": [],
@@ -2780,6 +2934,21 @@
     {
       "description": null,
       "items": [
+        {
+          "node_type": "item",
+          "title": "Plugins",
+          "description": "官方 Flutter 团队的插件。",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "id": 88650014,
+            "language": "Dart",
+            "last_commit": "2023-02-22T19:12:53Z",
+            "owner": "flutter-team-archive",
+            "repo": "plugins",
+            "stars": 17706
+          }
+        },
         {
           "children": [
             {
@@ -3739,6 +3908,28 @@
           "description": null,
           "node_type": "group",
           "title": "动画"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "响应式框架",
+              "description": "[702⭐] - 自动适应不同屏幕尺寸的用户界面。简化响应式设计，由 Codelessly 开发。",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 240806054,
+                "language": "Dart",
+                "last_commit": "2025-06-09T20:08:16Z",
+                "owner": "Codelessly",
+                "repo": "ResponsiveFramework",
+                "stars": 1405
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Web"
         }
       ],
       "title": "框架"
@@ -3746,6 +3937,28 @@
     {
       "description": null,
       "items": [
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Graphx",
+              "description": "[293⭐] - 受 Flash 启发，使绘图和动画变得极其简单，由 Roi Peker 开发。",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 305905470,
+                "language": "Dart",
+                "last_commit": "2025-04-15T12:58:48Z",
+                "owner": "roipeker",
+                "repo": "graphx",
+                "stars": 519
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "渲染"
+        },
         {
           "children": [
             {
@@ -3760,7 +3973,7 @@
                 "last_commit": "2026-08-20T13:27:01Z",
                 "owner": "flame-engine",
                 "repo": "flame",
-                "stars": 10730
+                "stars": 10731
               }
             },
             {
@@ -3919,6 +4132,28 @@
                 "repo": "trex-flame",
                 "stars": 8
               }
+            },
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "Awesome Flame",
+                  "description": "Flame 游戏引擎的精选列表，包含最佳 Flame 游戏、项目、库、工具、教程、文章等，由 Flame Engine 维护。",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 212109055,
+                    "language": null,
+                    "last_commit": "2026-07-02T10:11:31Z",
+                    "owner": "flame-engine",
+                    "repo": "awesome-flame",
+                    "stars": 1378
+                  }
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "游戏引擎资源"
             }
           ],
           "description": null,
@@ -3945,7 +4180,7 @@
                 "last_commit": "2026-08-11T13:01:19Z",
                 "owner": "AppFlowy-IO",
                 "repo": "AppFlowy",
-                "stars": 75905
+                "stars": 75908
               }
             },
             {
@@ -4012,7 +4247,7 @@
                 "last_commit": "2026-08-20T06:44:02Z",
                 "owner": "flutter",
                 "repo": "samples",
-                "stars": 19244
+                "stars": 19245
               }
             },
             {
@@ -4500,7 +4735,7 @@
             "archived": false,
             "id": 172011048,
             "language": "Dart",
-            "last_commit": "2026-08-23T20:10:44Z",
+            "last_commit": "2026-08-24T13:57:17Z",
             "owner": "leoafarias",
             "repo": "fvm",
             "stars": 5505
@@ -4625,6 +4860,28 @@
             "repo": "dart_environment_config",
             "stars": 91
           }
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Enhancement_Suite",
+              "description": "[118⭐] - 搜索pub.dev库，更新版本，Bloc，Snippet等，由Marius Höfler提供。",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 195710513,
+                "language": "Kotlin",
+                "last_commit": "2024-03-28T10:17:52Z",
+                "owner": "marius-h",
+                "repo": "flutter_enhancement_suite",
+                "stars": 290
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "IntelliJ / Android Studio"
         },
         {
           "children": [
@@ -4785,10 +5042,53 @@
         }
       ],
       "title": "实用工具"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Awesome Flutter Linux",
+          "description": "由J-P Nurmi维护的精选的专为Linux的Flutter软件包和项目的列表。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 403376507,
+            "language": null,
+            "last_commit": "2024-06-27T07:18:18Z",
+            "owner": "jpnurmi",
+            "repo": "awesome-flutter-linux",
+            "stars": 211
+          }
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "面试问题",
+              "description": "一份有帮助的问题列表，可以用来面试潜在候选人，由Whatsupcoders提供。",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 193836389,
+                "language": null,
+                "last_commit": "2021-02-10T13:16:01Z",
+                "owner": "whatsupcoders",
+                "repo": "Flutter-Interview-Questions",
+                "stars": 370
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "指南和面试"
+        }
+      ],
+      "title": "附加"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T10:45:01.111Z",
+    "last_updated": "2026-08-24T13:58:01.582Z",
     "original_repository": "crazycodeboy/awesome-flutter-cn",
     "original_repository_id": 138164876,
     "original_repository_sha": "9d2f999d197eaaed697f2d8cce350d18febe2056",
