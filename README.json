@@ -1513,7 +1513,7 @@
                 "last_commit": "2026-07-24T23:02:03Z",
                 "owner": "imaNNeo",
                 "repo": "fl_chart",
-                "stars": 7574
+                "stars": 7575
               }
             },
             {
@@ -1995,7 +1995,7 @@
                 "archived": false,
                 "id": 202429703,
                 "language": "Dart",
-                "last_commit": "2026-08-27T10:03:56Z",
+                "last_commit": "2026-08-27T14:54:28Z",
                 "owner": "firebase",
                 "repo": "flutterfire",
                 "stars": 9251
@@ -2223,7 +2223,7 @@
                     "last_commit": "2026-08-12T20:48:47Z",
                     "owner": "fluttercommunity",
                     "repo": "chewie",
-                    "stars": 2062
+                    "stars": 2063
                   }
                 },
                 {
@@ -2358,7 +2358,7 @@
                 "archived": false,
                 "id": 202429703,
                 "language": "Dart",
-                "last_commit": "2026-08-27T10:03:56Z",
+                "last_commit": "2026-08-27T14:54:28Z",
                 "owner": "firebase",
                 "repo": "flutterfire",
                 "stars": 9251
@@ -2477,7 +2477,7 @@
             "last_commit": "2025-11-02T14:49:32Z",
             "owner": "diegoveloper",
             "repo": "flutter-samples",
-            "stars": 3210
+            "stars": 3209
           }
         },
         {
@@ -2990,7 +2990,7 @@
                 "archived": false,
                 "id": 138361535,
                 "language": "Dart",
-                "last_commit": "2026-08-27T09:23:10Z",
+                "last_commit": "2026-08-27T18:28:11Z",
                 "owner": "miguelpruivo",
                 "repo": "flutter_file_picker",
                 "stars": 1559
@@ -3344,7 +3344,7 @@
                 "last_commit": "2026-08-16T15:35:10Z",
                 "owner": "tekartik",
                 "repo": "sqflite",
-                "stars": 3017
+                "stars": 3018
               }
             }
           ],
@@ -3441,7 +3441,7 @@
                     "last_commit": "2026-08-10T16:40:08Z",
                     "owner": "felangel",
                     "repo": "bloc",
-                    "stars": 12482
+                    "stars": 12483
                   }
                 },
                 {
@@ -3471,7 +3471,7 @@
                     "last_commit": "2026-08-24T21:54:31Z",
                     "owner": "rrousselGit",
                     "repo": "riverpod",
-                    "stars": 7372
+                    "stars": 7373
                   }
                 },
                 {
@@ -3970,7 +3970,7 @@
                 "archived": false,
                 "id": 107833072,
                 "language": "Dart",
-                "last_commit": "2026-08-26T15:06:21Z",
+                "last_commit": "2026-08-27T14:41:30Z",
                 "owner": "flame-engine",
                 "repo": "flame",
                 "stars": 10732
@@ -4147,7 +4147,7 @@
                     "last_commit": "2026-07-02T10:11:31Z",
                     "owner": "flame-engine",
                     "repo": "awesome-flame",
-                    "stars": 1380
+                    "stars": 1381
                   }
                 }
               ],
@@ -4180,7 +4180,7 @@
                 "last_commit": "2026-08-11T13:01:19Z",
                 "owner": "AppFlowy-IO",
                 "repo": "AppFlowy",
-                "stars": 75997
+                "stars": 76010
               }
             },
             {
@@ -4244,7 +4244,7 @@
                 "archived": false,
                 "id": 136667574,
                 "language": "Dart",
-                "last_commit": "2026-08-27T06:32:53Z",
+                "last_commit": "2026-08-27T14:57:16Z",
                 "owner": "flutter",
                 "repo": "samples",
                 "stars": 19248
@@ -4735,7 +4735,7 @@
             "archived": false,
             "id": 172011048,
             "language": "Dart",
-            "last_commit": "2026-08-27T00:11:39Z",
+            "last_commit": "2026-08-27T19:36:27Z",
             "owner": "leoafarias",
             "repo": "fvm",
             "stars": 5505
@@ -4927,7 +4927,7 @@
                 "last_commit": "2026-08-03T11:27:07Z",
                 "owner": "bdlukaa",
                 "repo": "fluent_ui",
-                "stars": 3462
+                "stars": 3463
               }
             },
             {
@@ -5088,7 +5088,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T11:37:29.361Z",
+    "last_updated": "2026-08-27T20:17:37.931Z",
     "original_repository_info": {
       "archived": false,
       "id": 138164876,
