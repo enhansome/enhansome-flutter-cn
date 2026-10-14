@@ -72,7 +72,7 @@
 
 * [Flutter技术专栏](http://www.devio.org/tags/#Flutter)![ new](http://www.devio.org/img/ico/ico_new.gif)
 
-- [Awesome Flutter tips](https://github.com/erluxman/awesomefluttertips/) ⭐ 2,939 | 🐛 8 | 🌐 Dart | 📅 2022-09-30 - 由 [erluxman](https://twitter.com/erluxman/) 提供的帮助开发人员提高生产力的提示。
+- [Awesome Flutter tips](https://github.com/erluxman/awesomefluttertips/) ⭐ 2,940 | 🐛 8 | 🌐 Dart | 📅 2022-09-30 - 由 [erluxman](https://twitter.com/erluxman/) 提供的帮助开发人员提高生产力的提示。
 - [Welcome to Flutter](https://didierboelens.com) - 英文和法文博客，致力于为Ditter Boelens提出的有关Flutter的最常见问题提供实用的解决方案。
 - [SZAŁKO-BLOG](https://marcinszalek.pl/) - 渐进式高级设计，由[Marcin Szalek](https://marcinszalek.pl/)提供。
 - [Flutter by Example](https://flutterbyexample.com/) - 基于Redux，Firebase，自定义动画和UI的教程。
@@ -104,7 +104,7 @@
 
 ### 初学者
 
-* [Flutter开发路线图](https://github.com/olexale/flutter_roadmap) ⭐ 5,937 | 🐛 1 | 📅 2024-12-24 \[2795⭐] - 由[Olexandr Leuschenko](https://github.com/olexale)制作的Flutter新手可视化路线图，包含原则、模式和框架。
+* [Flutter开发路线图](https://github.com/olexale/flutter_roadmap) ⭐ 5,938 | 🐛 1 | 📅 2024-12-24 \[2795⭐] - 由[Olexandr Leuschenko](https://github.com/olexale)制作的Flutter新手可视化路线图，包含原则、模式和框架。
 * [初学者指南](https://github.com/antz22/ultimate-guide-to-flutter) ⭐ 482 | 🐛 0 | 🌐 Dart | 📅 2023-02-14 \[123⭐] - [Anthony](https://github.com/antz22)编写的关于Flutter和Firebase基础知识的综合指南。
 * [给Android开发者的Flutter入门指南](https://www.imooc.com/article/315337) - 一份面向Android开发者的Flutter入门指南。
 * [初学者如何高效学习Flutter开发？](https://www.imooc.com/article/312207) - 一份指导初学者快速高效上手Flutter的指南。
@@ -200,7 +200,7 @@
 #### 底栏
 
 * [Bottom Navy Bar](https://github.com/pedromassango/bottom_navy_bar) ⭐ 1,095 | 🐛 23 | 🌐 Dart | 📅 2024-12-14 \[550⭐] - 美丽多彩的动画底部导航栏，由[Pedro Massango](https://github.com/pedromassango)提供。
-* [Fancy Bottom Navigation](https://github.com/tunitowen/fancy_bottom_navigation) ⭐ 841 | 🐛 42 | 🌐 Dart | 📅 2023-12-01 \[404⭐] - 动画底部导航，由[Tony Owen](https://github.com/tunitowen)提供。
+* [Fancy Bottom Navigation](https://github.com/tunitowen/fancy_bottom_navigation) ⭐ 841 | 🐛 43 | 🌐 Dart | 📅 2023-12-01 \[404⭐] - 动画底部导航，由[Tony Owen](https://github.com/tunitowen)提供。
 * [Circular Bottom Navigation](https://github.com/imaNNeoFighT/circular_bottom_navigation) ⭐ 692 | 🐛 5 | 🌐 Dart | 📅 2024-03-18 \[314⭐] - 漂亮的动画底部导航栏，由[Iman Khoshabi](https://github.com/imaNNeoFighT)提供。
 * [Titled Navigation Bar](https://github.com/pedromassango/titled_navigation_bar) ⭐ 377 | 🐛 4 | 🌐 Dart | 📅 2021-11-30 \[184⭐] - 动画底部导航栏，可在图标和标题之间切换，由[Pedro Massango](http://github.com/pedromassango)提供。
 
@@ -239,7 +239,7 @@
 
 * [闪光效果](https://github.com/hnvn/flutter_shimmer) ⭐ 1,860 | 🐛 38 | 🌐 Dart | 📅 2026-08-25 \[1387⭐] - 在内容加载时显示闪光效果，由[HungHD](https://github.com/hnvn)创建。
 * [液体滑动](https://github.com/iamSahdeep/liquid_swipe_flutter) ⭐ 1,266 | 🐛 7 | 🌐 Dart | 📅 2024-02-08 - 使用液体滑动切换堆叠的容器，由[Sahdeep Singh](https://github.com/iamSahdeep)创建。
-* [波浪效果](https://github.com/i-protoss/wave) ⭐ 1,123 | 🐛 22 | 🌐 Dart | 📅 2026-08-17 \[742⭐] - 显示带有自定义颜色、持续时间、浮动和模糊效果的波浪效果，由[RockerFlower](https://github.com/RockerFlower)创建。
+* [波浪效果](https://github.com/i-protoss/wave) ⭐ 1,124 | 🐛 22 | 🌐 Dart | 📅 2026-08-17 \[742⭐] - 显示带有自定义颜色、持续时间、浮动和模糊效果的波浪效果，由[RockerFlower](https://github.com/RockerFlower)创建。
 * [视差效果](https://github.com/FlutterRocks/page-transformer) ⭐ 877 | 🐛 9 | 🌐 Dart | 📅 2020-02-10 \[735⭐] - 由[Iiro Krankka](https://github.com/roughike)创建的ViewPager。
 * [Clay Containers](https://github.com/mcaubrey/clay_containers) ⭐ 459 | 🐛 3 | 🌐 C++ | 📅 2024-02-02 \[369⭐] - 用于创建自定义设计的Neumorphic小部件基础，由[Michael Charles](https://github.com/mcaubrey)创建。
 * [图片滤镜](https://github.com/skkallayath/photofilters) ⭐ 430 | 🐛 29 | 🌐 Dart | 📅 2024-01-21 \[297⭐] - 对图像应用滤镜，由[Sharafudheen KK](https://github.com/skkallayath)创建。
@@ -264,9 +264,9 @@
 
 ### 图片
 
-* [缓存网络图片](https://github.com/renefloor/flutter_cached_network_image) ⭐ 2,591 | 🐛 327 | 🌐 Dart | 📅 2026-09-30 \[1911⭐] - 显示来自互联网的图片并将它们保存在缓存目录中。
+* [缓存网络图片](https://github.com/renefloor/flutter_cached_network_image) ⭐ 2,591 | 🐛 328 | 🌐 Dart | 📅 2026-09-30 \[1911⭐] - 显示来自互联网的图片并将它们保存在缓存目录中。
 * [照片查看](https://github.com/renancaraujo/photo_view) ⭐ 2,000 | 🐛 119 | 🌐 Dart | 📅 2024-09-04 \[1478⭐] - 可缩放的图片查看器，带有加载占位符，由 [Renan C. Araújo](https://github.com/renancaraujo) 制作。
-* [轮播滑块](https://github.com/serenader2014/flutter_carousel_slider) ⭐ 1,700 | 🐛 215 | 🌐 Dart | 📅 2026-02-06 \[1178⭐] - 由 [serenader](https://github.com/serenader2014) 制作的轮播滑块小部件，支持无限滚动和自定义子部件。
+* [轮播滑块](https://github.com/serenader2014/flutter_carousel_slider) ⭐ 1,700 | 🐛 216 | 🌐 Dart | 📅 2026-02-06 \[1178⭐] - 由 [serenader](https://github.com/serenader2014) 制作的轮播滑块小部件，支持无限滚动和自定义子部件。
 * [SVG](https://github.com/dnfield/flutter_svg) ⭐ 1,689 | 🐛 247 | 🌐 Dart | 📅 2024-11-01 \[1270⭐] - SVG解析、渲染和小部件库，由 [Dan Field](https://github.com/dnfield) 制作。
 * [Lottie](https://github.com/xvrh/lottie-flutter) ⭐ 1,302 | 🐛 164 | 🌐 Dart | 📅 2026-09-18 \[665⭐] - 使用airbnb流行的[After Effects动画库](https://airbnb.design/lottie/)，由 [xvrh](https://github.com/xvrh/lottie-flutter) ⭐ 1,302 | 🐛 164 | 🌐 Dart | 📅 2026-09-18 制作。
 * [图片裁剪](https://github.com/hnvn/flutter_image_cropper) ⭐ 1,057 | 🐛 340 | 🌐 Dart | 📅 2026-10-12 \[814⭐] - 支持比例、旋转和缩放的图片裁剪，由 [HungHD](https://github.com/hnvn) 制作。
@@ -289,7 +289,7 @@
 
 ### 图表
 
-* [FL Chart](https://github.com/imaNNeoFighT/fl_chart) ⭐ 7,585 | 🐛 411 | 🌐 Dart | 📅 2026-09-29 \[3846⭐] - 在Flutter中绘制出色的图表，由 [Iman Khoshabi](http://www.ikhoshabi.com) 制作。
+* [FL Chart](https://github.com/imaNNeoFighT/fl_chart) ⭐ 7,585 | 🐛 409 | 🌐 Dart | 📅 2026-10-14 \[3846⭐] - 在Flutter中绘制出色的图表，由 [Iman Khoshabi](http://www.ikhoshabi.com) 制作。
 * [Charts](https://github.com/google/charts) ⚠️ Archived \[2505⭐] - Google Charts团队制作。
 * [Graphic](https://github.com/entronad/graphic) ⭐ 1,792 | 🐛 85 | 🌐 Dart | 📅 2026-02-25 \[383⭐] - 基于图形语法的数据可视化库，由 [LIN Chen](https://github.com/entronad) 制作。
 * [Echarts](https://github.com/entronad/flutter_echarts) ⚠️ Archived \[533⭐] - 大量高级响应式图表集合，由 [LIN Chen](https://github.com/entronad) 制作。
@@ -301,7 +301,7 @@
 
 ### 导航
 
-* [Get](https://github.com/jonataslaw/get) ⭐ 11,201 | 🐛 1,182 | 🌐 Dart | 📅 2026-06-12 \[1219⭐] - 一个应用于Flutter的高性能状态管理，智能依赖性注入和路由管理的插件，由[Jonny Borges](https://github.com/jonataslaw)。
+* [Get](https://github.com/jonataslaw/get) ⭐ 11,202 | 🐛 1,182 | 🌐 Dart | 📅 2026-06-12 \[1219⭐] - 一个应用于Flutter的高性能状态管理，智能依赖性注入和路由管理的插件，由[Jonny Borges](https://github.com/jonataslaw)。
 * [Fluro](https://github.com/goposse/fluro) ⭐ 3,710 | 🐛 43 | 🌐 Dart | 📅 2023-03-22 \[3362⭐] - Flutter中最亮、最时尚、最酷的路由器，具有导航、通配符、查询和过渡效果，由 [Posse](http://goposse.com) 制作。
 * [PageView Indicator](https://github.com/leocavalcante/page_view_indicator) ⭐ 164 | 🐛 4 | 🌐 Dart | 📅 2021-11-03 \[132⭐] - 为PageView构建页面指示器，由 [Leo Cavalcante](https://github.com/leocavalcante) 制作。
 * [深层链接导航](https://github.com/Dennis-Krasnov/Flutter-Deep-Link-Navigation) ⭐ 68 | 🐛 3 | 🌐 Dart | 📅 2020-02-11 \[53⭐] - 在Flutter中实现完整的深层链接导航的优雅抽象，由 [Dennis Krasnov](https://denniskrasnov.com) 制作。
@@ -337,7 +337,7 @@
 
 ### 分析
 
-* [Firebase Analytics](https://github.com/FirebaseExtended/flutterfire/tree/master/packages/firebase_analytics) ⭐ 9,259 | 🐛 88 | 🌐 Dart | 📅 2026-10-13 - 连接到 Firebase Analytics API。
+* [Firebase Analytics](https://github.com/FirebaseExtended/flutterfire/tree/master/packages/firebase_analytics) ⭐ 9,260 | 🐛 86 | 🌐 Dart | 📅 2026-10-14 - 连接到 Firebase Analytics API。
 * [Usage](https://github.com/dart-lang/usage) ⚠️ Archived \[123⭐] - 用于命令行、Web 和 Flutter 应用程序的 Google Analytics 封装。
 * [Pure Mixpanel](https://github.com/seenickcode/pure_mixpanel) ⭐ 24 | 🐛 2 | 🌐 Dart | 📅 2020-11-25 \[21⭐] - 用于流行的 [Mixpanel.com](https://mixpanel.com) 的分析工具，由 [Nick Manning](https://twitter.com/seenickcode) 制作。
 
@@ -364,9 +364,9 @@
 
 #### 视频
 
-* [WebRTC](https://github.com/cloudwebrtc/flutter-webrtc) ⭐ 4,496 | 🐛 730 | 🌐 C++ | 📅 2026-10-08 \[2747⭐] - iOS/Android 的 WebRTC 插件，由 [CloudWebRtc](https://github.com/cloudwebrtc) 制作。
-* [Chewie](https://github.com/brianegan/chewie) ⭐ 2,064 | 🐛 432 | 🌐 Dart | 📅 2026-09-16 \[1353⭐] - 提供对视频播放的低级访问，由 [Brian Egan](https://github.com/brianegan) 制作。
-* [CamerAwesome](https://github.com/Apparence-io/camera_awesome) ⭐ 1,217 | 🐛 203 | 🌐 Dart | 📅 2026-10-08 \[295⭐] - 社区相机插件改版，由 [Apparence.io studio](https://apparence.io) 制作。
+* [WebRTC](https://github.com/cloudwebrtc/flutter-webrtc) ⭐ 4,495 | 🐛 730 | 🌐 C++ | 📅 2026-10-08 \[2747⭐] - iOS/Android 的 WebRTC 插件，由 [CloudWebRtc](https://github.com/cloudwebrtc) 制作。
+* [Chewie](https://github.com/brianegan/chewie) ⭐ 2,065 | 🐛 433 | 🌐 Dart | 📅 2026-09-16 \[1353⭐] - 提供对视频播放的低级访问，由 [Brian Egan](https://github.com/brianegan) 制作。
+* [CamerAwesome](https://github.com/Apparence-io/camera_awesome) ⭐ 1,218 | 🐛 203 | 🌐 Dart | 📅 2026-10-08 \[295⭐] - 社区相机插件改版，由 [Apparence.io studio](https://apparence.io) 制作。
 * [Video Trimmer](https://github.com/sbis04/video_trimmer) ⭐ 492 | 🐛 47 | 🌐 Dart | 📅 2025-04-27 \[276⭐] - 可视化和修剪视频，由 [Souvik Biswas](https://github.com/sbis04) 制作。
 
 #### 语音
@@ -381,26 +381,26 @@
 
 #### 首选项
 
-* [Streaming Shared Preferences](https://github.com/roughike/streaming_shared_preferences) ⭐ 249 | 🐛 7 | 🌐 Dart | 📅 2022-03-02 - 基于流的键值存储，通过流实现共享首选项，由 [Iiro Krankka](https://github.com/roughike) 制作。
+* [Streaming Shared Preferences](https://github.com/roughike/streaming_shared_preferences) ⭐ 250 | 🐛 7 | 🌐 Dart | 📅 2022-03-02 - 基于流的键值存储，通过流实现共享首选项，由 [Iiro Krankka](https://github.com/roughike) 制作。
 
 ### 赚钱
 
-* [Firebase AdMob](https://github.com/FirebaseExtended/flutterfire/tree/master/packages/firebase_admob) ⭐ 9,259 | 🐛 88 | 🌐 Dart | 📅 2026-10-13 - 使用 Firebase 进行广告集成。
+* [Firebase AdMob](https://github.com/FirebaseExtended/flutterfire/tree/master/packages/firebase_admob) ⭐ 9,260 | 🐛 86 | 🌐 Dart | 📅 2026-10-14 - 使用 Firebase 进行广告集成。
 * [Inapp Purchase](https://github.com/dooboolab/flutter_inapp_purchase) ⚠️ Archived \[464⭐] - 从 [react-native-iap](https://github.com/dooboolab/react-native-iap) ⚠️ Archived 派生的“应用内购买”功能集合，由 [dooboolab](https://github.com/dooboolab) 制作。
 * [Admob Flutter](https://github.com/kmcgill88/admob_flutter) ⭐ 434 | 🐛 114 | 🌐 Dart | 📅 2024-08-12 - 使用原生平台视图显示横幅广告的 Admob 插件，由 [Youssef Kababe](https://github.com/YoussefKababe) 和 [Kevin McGill](https://github.com/kmcgill88) 制作。
 * [Square In-App Payments SDK](https://github.com/square/in-app-payments-flutter-plugin) ⭐ 340 | 🐛 11 | 🌐 Objective-C | 📅 2026-10-08 \[283⭐] - 在应用中嵌入卡片输入表单以生成顾客提供的卡片信息或数字钱包的 Nonce，以进行支付，由 [Square](https://github.com/orgs/square) 制作。
-* [Facebook Audience Network](https://github.com/dreamsoftin/facebook_audience_network) ⭐ 153 | 🐛 76 | 🌐 Swift | 📅 2024-08-09 - 显示横幅广告、插页式广告、流式视频广告、激励视频广告和原生广告的 Facebook Audience Network 广告插件，由 [Dreamsoft Innovations](https://github.com/dreamsoftin) 制作。
+* [Facebook Audience Network](https://github.com/dreamsoftin/facebook_audience_network) ⭐ 153 | 🐛 78 | 🌐 Swift | 📅 2024-08-09 - 显示横幅广告、插页式广告、流式视频广告、激励视频广告和原生广告的 Facebook Audience Network 广告插件，由 [Dreamsoft Innovations](https://github.com/dreamsoftin) 制作。
 * [Admob](https://pub.dev/packages/admob) - 支持 iOS 和 Android 的插页式广告，由 Brett Nesbitt 制作。
 
 ## 模板
 
-* [TodoMVC](https://github.com/brianegan/flutter_architecture_samples) ⭐ 8,928 | 🐛 49 | 🌐 Dart | 📅 2025-11-06 \[7528⭐] - 包含不同风格（Vanilla、Redux、built\_redux）的 TODO 应用程序，由 [Brian Egan](https://github.com/brianegan) 制作。
-* [UI 工具包](https://github.com/iampawan/Flutter-UI-Kit) ⭐ 6,292 | 🐛 14 | 🌐 Dart | 📅 2022-06-13 \[5707⭐] - 一套有用的 UI 工具包，由 [Pawan Kumar](https://github.com/iampawan) 制作。
-* [Flutter 示例](https://github.com/diegoveloper/flutter-samples) ⭐ 3,206 | 🐛 3 | 🌐 Dart | 📅 2025-11-02 \[2464⭐] - 一系列优秀的 Flutter 示例，由 [Diego Velásquez](https://github.com/diegoveloper) 制作。
+* [TodoMVC](https://github.com/brianegan/flutter_architecture_samples) ⭐ 8,929 | 🐛 49 | 🌐 Dart | 📅 2025-11-06 \[7528⭐] - 包含不同风格（Vanilla、Redux、built\_redux）的 TODO 应用程序，由 [Brian Egan](https://github.com/brianegan) 制作。
+* [UI 工具包](https://github.com/iampawan/Flutter-UI-Kit) ⭐ 6,293 | 🐛 14 | 🌐 Dart | 📅 2022-06-13 \[5707⭐] - 一套有用的 UI 工具包，由 [Pawan Kumar](https://github.com/iampawan) 制作。
+* [Flutter 示例](https://github.com/diegoveloper/flutter-samples) ⭐ 3,207 | 🐛 3 | 🌐 Dart | 📅 2025-11-02 \[2464⭐] - 一系列优秀的 Flutter 示例，由 [Diego Velásquez](https://github.com/diegoveloper) 制作。
 * [漂亮的登录界面](https://github.com/huextrat/TheGorgeousLogin) ⭐ 1,765 | 🐛 1 | 🌐 Dart | 📅 2023-12-15 \[1497⭐] - 设计优美且流畅的登录模板，由 [Hugo Extrat](https://github.com/huextrat) 制作。
 * [FlutterFoodybite](https://github.com/JideGuru/FlutterFoodybite) ⭐ 1,714 | 🐛 7 | 🌐 Dart | 📅 2024-08-05 \[1113⭐] - 优美的美食应用 UI 模板，由 [JideGuru](https://github.com/JideGuru) 制作。
 * [UI 挑战](https://github.com/tomialagbe/flutter_ui_challenges) ⭐ 1,512 | 🐛 11 | 🌐 Dart | 📅 2019-11-14 \[1272⭐] - 个人资料、旅行、美食应用，由 [Tomi Alagbe](https://github.com/tomialagbe) 制作。
-* [克隆 UI 挑战](https://github.com/javico2609/flutter-challenges) ⭐ 1,506 | 🐛 1 | 🌐 Dart | 📅 2020-05-05 \[1280⭐] - 一系列有用的 UI 克隆，由 [Javier González](https://github.com/javico2609) 制作。
+* [克隆 UI 挑战](https://github.com/javico2609/flutter-challenges) ⭐ 1,505 | 🐛 1 | 🌐 Dart | 📅 2020-05-05 \[1280⭐] - 一系列有用的 UI 克隆，由 [Javier González](https://github.com/javico2609) 制作。
 * [仪表盘](https://github.com/Ivaskuu/dashboard) ⭐ 947 | 🐛 5 | 🌐 Dart | 📅 2019-08-09 \[814⭐] - 仪表盘和商店项目，由 [Ivascu Adrian](https://github.com/Ivaskuu) 制作。
 * [智能洗衣机](https://github.com/pawlik92/flutter_whirlpool) ⭐ 912 | 🐛 1 | 🌐 Dart | 📅 2022-10-23 \[590⭐] - 由 [Tomasz Pawlikowski](https://github.com/pawlik92) 制作的智能洗衣机 UI 挑战应用，采用 Box2D 物理引擎。
 * [入门套件](https://github.com/KingWu/flutter_starter_kit) ⭐ 803 | 🐛 1 | 🌐 Dart | 📅 2022-05-18 \[596⭐] - App Store 实现，用于学习 Bloc、RxDart、Sqflite、Fluro 和 Dio，由 [King Wu](https://github.com/KingWu) 制作。
@@ -447,16 +447,16 @@
 
 * [Local Notifications](https://github.com/MaikuB/flutter_local_notifications) ⭐ 2,670 | 🐛 129 | 🌐 Dart | 📅 2026-10-13 \[1203⭐] - 用于显示本地通知的插件，由 [Michael Bui](https://github.com/MaikuB)提供。
 * [Permission Handler](https://github.com/baseflow/flutter-permission-handler) ⭐ 2,177 | 🐛 162 | 🌐 Dart | 📅 2026-09-26<!--stargazers:baseflow/flutter-permission-handler--> - Flutter权限插件，提供跨平台（iOS，Android）API来请求和检查权限，由[Baseflow](https://baseflow.com)。
-* [File Picker](https://github.com/miguelpruivo/plugins_flutter_file_picker) ⭐ 1,572 | 🐛 7 | 🌐 Dart | 📅 2026-10-13 \[392⭐] - 本机文件浏览器加载，支持绝对文件路径，由[Miguel Ruivo](https://github.com/miguelpruivo)。
+* [File Picker](https://github.com/miguelpruivo/plugins_flutter_file_picker) ⭐ 1,572 | 🐛 11 | 🌐 Dart | 📅 2026-10-14 \[392⭐] - 本机文件浏览器加载，支持绝对文件路径，由[Miguel Ruivo](https://github.com/miguelpruivo)。
 * [WebView](https://github.com/dart-flitter/flutter_webview_plugin) ⭐ 1,495 | 🐛 551 | 🌐 Java | 📅 2024-03-19 \[1232⭐] - 一个WebView插件， 由[Hadrien Lejard](https://twitter.com/HadrienLejard)提供。
-* [Geolocator](https://github.com/baseflow/flutter-geolocator) ⭐ 1,337 | 🐛 162 | 🌐 Dart | 📅 2026-10-02<!--stargazers:baseflow/flutter-geolocator--> - Flutter地理位置插件，可轻松访问特定于平台的位置服务，由[Baseflow](https://baseflow.com)。
+* [Geolocator](https://github.com/baseflow/flutter-geolocator) ⭐ 1,337 | 🐛 160 | 🌐 Dart | 📅 2026-10-13<!--stargazers:baseflow/flutter-geolocator--> - Flutter地理位置插件，可轻松访问特定于平台的位置服务，由[Baseflow](https://baseflow.com)。
 * [Location](https://github.com/Lyokone/flutterlocation) ⭐ 1,158 | 🐛 7 | 🌐 Dart | 📅 2026-08-07 \[595⭐] - 位置服务，提供位置，以及连续位置的回调，由 [Lyokone](https://github.com/Lyokone)提供。
 * [VPN](https://github.com/X-dea/Flutter_VPN) ⭐ 375 | 🐛 51 | 🌐 Java | 📅 2025-06-01<!--stargazers:X-dea/Flutter_VPN--> - 访问 VPN 服务，由[Jason C.H](https://github.com/ctrysbita)。
 * [Badger](https://github.com/g123k/flutter_app_badger) ⚠️ Archived \[175⭐] - 提供更新APP启动图标上的小红点能力的插件，由 [Edouard Marquez](https://twitter.com/g123k)提供。
 * [UDID](https://github.com/GigaDroid/flutter_udid) ⭐ 286 | 🐛 2 | 🌐 C++ | 📅 2026-07-14 \[135⭐] - 用于在Android/iOS设备上获取一个持久的 UDID，即使重新安装App，由  [Leon Kukuk](https://kukuk.me)提供。
 * [Device Calendar](https://github.com/builttoroam/flutter_plugins/tree/develop/device_calendar) ⭐ 281 | 🐛 119 | 🌐 Dart | 📅 2025-03-08 - 提供修改用户日历能力的插件，由[Built to Roam](http://builttoroam.com)提供。
 * [Geolocation](https://github.com/loup-v/geolocation) ⭐ 230 | 🐛 24 | 🌐 Dart | 📅 2022-07-22 \[196⭐] - 功能齐全的地理定位插件：当前位置，位置更新，地理编码，地点等，由 [Loup](http://intheloup.io)提供。
-* [AppAvailability](https://github.com/pichillilorenzo/flutter_appavailability) ⭐ 93 | 🐛 23 | 🌐 Dart | 📅 2023-01-31 \[57⭐] - 列出，启动并检查已安装的应用，由 [Lorenzo Pichilli](https://github.com/pichillilorenzo)提供。
+* [AppAvailability](https://github.com/pichillilorenzo/flutter_appavailability) ⭐ 93 | 🐛 24 | 🌐 Dart | 📅 2023-01-31 \[57⭐] - 列出，启动并检查已安装的应用，由 [Lorenzo Pichilli](https://github.com/pichillilorenzo)提供。
 * [Aeyrium Sensor](https://github.com/aeyrium/aeyrium-sensor) ⭐ 58 | 🐛 11 | 🌐 Java | 📅 2022-04-20 \[49⭐] - 一个插件，可以轻松访问Android和iOS设备上的Pitch and Roll， [Diego Velásquez](https://github.com/aeyrium)提供。
 * [InAppBrowser](https://github.com/pichillilorenzo/flutter_inappbrowser) ⭐ 6 | 🐛 0 | 📅 2019-11-29 \[1002⭐] - 添加内联WebView小部件或打开应用程序内浏览器窗口，由 [Lorenzo Pichilli](https://github.com/pichillilorenzo)提供。
 * [Downloader](https://github.com/hnvn/flutter_downloader) ⭐ 1 | 🐛 0 | 🌐 Kotlin | 📅 2024-11-01 \[472⭐] - 下载器，创建和管理下载任务，由 [HungHD](https://github.com/hnvn)提供。
@@ -479,7 +479,7 @@
 
 ### 存储
 
-* [Moor](https://github.com/simolus3/moor) ⭐ 3,291 | 🐛 211 | 🌐 Dart | 📅 2026-10-11 - Moor 是一个易于使用、反应式、类型安全的 Dart 和 Flutter 持久化库，由 [Simon Binder](https://github.com/simolus3) 开发。
+* [Moor](https://github.com/simolus3/moor) ⭐ 3,291 | 🐛 203 | 🌐 Dart | 📅 2026-10-14 - Moor 是一个易于使用、反应式、类型安全的 Dart 和 Flutter 持久化库，由 [Simon Binder](https://github.com/simolus3) 开发。
 * [Sqflite](https://github.com/tekartik/sqflite) ⭐ 3,021 | 🐛 6 | 🌐 Dart | 📅 2026-10-13 \[2289⭐] - SQLite Flutter 插件，由 [Alexandre Roux](https://www.linkedin.com/in/alextekartik/) 开发。
 
 ### 服务
@@ -496,16 +496,16 @@
 
 #### Standard
 
-* [Bloc](https://github.com/felangel/bloc) ⭐ 12,481 | 🐛 79 | 🌐 Dart | 📅 2026-09-24 \[8181⭐] - 一套帮助实现 BLoC 设计模式的包集合，由 [Felix Angelov](https://github.com/felangel) 开发。
-* [GetX](https://github.com/jonataslaw/getx) ⭐ 11,201 | 🐛 1,182 | 🌐 Dart | 📅 2026-06-12 <!--jonataslaw/getx--> - 无需上下文的状态管理和导航，由 [Jonny Borges](https://github.com/jonataslaw) 开发。
-* [RiverPod](https://github.com/rrousselGit/river_pod) ⭐ 7,407 | 🐛 168 | 🌐 Dart | 📅 2026-10-07 \[2214⭐] - Provider 的不同实现，由 [Remi Rousselet](https://github.com/rrousselGit) 开发。
+* [Bloc](https://github.com/felangel/bloc) ⭐ 12,481 | 🐛 80 | 🌐 Dart | 📅 2026-09-24 \[8181⭐] - 一套帮助实现 BLoC 设计模式的包集合，由 [Felix Angelov](https://github.com/felangel) 开发。
+* [GetX](https://github.com/jonataslaw/getx) ⭐ 11,202 | 🐛 1,182 | 🌐 Dart | 📅 2026-06-12 <!--jonataslaw/getx--> - 无需上下文的状态管理和导航，由 [Jonny Borges](https://github.com/jonataslaw) 开发。
+* [RiverPod](https://github.com/rrousselGit/river_pod) ⭐ 7,406 | 🐛 168 | 🌐 Dart | 📅 2026-10-07 \[2214⭐] - Provider 的不同实现，由 [Remi Rousselet](https://github.com/rrousselGit) 开发。
 * [Provider](https://github.com/rrousselGit/provider) ⭐ 5,252 | 🐛 38 | 🌐 Dart | 📅 2026-09-29 \[3974⭐] - Flutter 的状态管理库，由 [Remi Rousselet](https://github.com/rrousselGit) 开发。
-* [MobX](https://github.com/mobxjs/mobx.dart) ⭐ 2,464 | 🐛 75 | 🌐 Dart | 📅 2026-09-18 \[2037⭐] - 使用透明功能响应式编程（TFRP）来增强应用程序中的状态管理。从 Js/React 领域移植的 MobX。
+* [MobX](https://github.com/mobxjs/mobx.dart) ⭐ 2,464 | 🐛 72 | 🌐 Dart | 📅 2026-10-14 \[2037⭐] - 使用透明功能响应式编程（TFRP）来增强应用程序中的状态管理。从 Js/React 领域移植的 MobX。
 * [Binder](https://github.com/letsar/binder) ⭐ 178 | 🐛 4 | 🌐 Dart | 📅 2022-08-08 \[167⭐] - 一种轻量而强大的将应用程序状态与业务逻辑绑定的方式，由 [Romain Rastel](https://github.com/letsar) 开发。
 
 ### Redux / ELM / 依赖注入
 
-* [Fish](https://github.com/alibaba/fish-redux) ⭐ 7,261 | 🐛 164 | 🌐 Dart | 📅 2022-02-17 \[7214⭐] - 阿里巴巴的 Redux 实现。
+* [Fish](https://github.com/alibaba/fish-redux) ⭐ 7,262 | 🐛 164 | 🌐 Dart | 📅 2022-02-17 \[7214⭐] - 阿里巴巴的 Redux 实现。
 * [Redux](https://github.com/brianegan/flutter_redux) ⭐ 1,642 | 🐛 18 | 🌐 Dart | 📅 2023-04-06 \[1522⭐] - 与 [redux.dart](https://github.com/johnpryan/redux.dart) ⭐ 519 | 🐛 11 | 🌐 Dart | 📅 2023-03-09 配合使用的工具，可以轻松使用 Redux Store 构建 Widgets。
 * [Inject](https://github.com/google/inject.dart) ⚠️ Archived \[847⭐] - 编译时依赖注入，由 Google 开发。
 * [Redux.dart](https://github.com/johnpryan/redux.dart) ⭐ 519 | 🐛 11 | 🌐 Dart | 📅 2023-03-09 \[486⭐] - Redux 在 Dart 中的移植版本，包括一系列的中间件、Flutter 集成和时间旅行开发工具，由 [John Ryan](https://github.com/johnpryan) 和 [Brian Egan](https://gitlab.com/users/brianegan/projects) 开发。
@@ -522,19 +522,19 @@
 
 * [Graphql](https://github.com/zino-app/graphql-flutter) ⭐ 3,268 | 🐛 167 | 🌐 Dart | 📅 2026-09-19 \[2796⭐] - GraphQL 规范的实现，由 [Zino App B.V.](https://github.com/zino-app) 开发。
 * [Ferry](https://github.com/gql-dart/ferry) ⭐ 635 | 🐛 102 | 🌐 Dart | 📅 2026-07-05 \[334⭐] - 强大且可扩展的 GraphQL 客户端，由 [Sat Mandir Khalsa](https://github.com/smkhalsa) 开发。
-* [GeoFlutterFire](https://github.com/DarshanGowda0/GeoFlutterFire) ⭐ 305 | 🐛 80 | 🌐 Dart | 📅 2024-06-25 \[244⭐] - Flutter 的 GeoFirestore 实现，由 [Darshan Gowda](https://darshann.me/) 开发。
+* [GeoFlutterFire](https://github.com/DarshanGowda0/GeoFlutterFire) ⭐ 305 | 🐛 81 | 🌐 Dart | 📅 2024-06-25 \[244⭐] - Flutter 的 GeoFirestore 实现，由 [Darshan Gowda](https://darshann.me/) 开发。
 
 ### 后端
 
 * [Dynamic Widget](https://github.com/dengyin2000/dynamic_widget) ⭐ 1,648 | 🐛 51 | 🌐 Dart | 📅 2025-06-25 \[1100⭐] - 使用 JSON 构建动态 UI，JSON 格式与 Flutter Widget 代码非常相似，由 [Denny Deng](https://github.com/dengyin2000) 开发。
 * [Parse for Flutter](https://github.com/parse-community/Parse-SDK-Flutter/tree/master/packages/flutter) ⭐ 588 | 🐛 50 | 🌐 Dart | 📅 2026-09-30 \[394⭐] - 开源的后端框架，由 [ParsePlatform](https://parseplatform.org/) 开发。
-* [NETCoreSync](https://github.com/aldycool/NETCoreSync) ⭐ 79 | 🐛 1 | 🌐 Dart | 📅 2022-12-08 - 面向多个客户端的集中式数据库同步框架，基于 [Moor](https://github.com/simolus3/moor) ⭐ 3,291 | 🐛 211 | 🌐 Dart | 📅 2026-10-11 库，由 [Aldy J](https://github.com/aldycool) 开发。
+* [NETCoreSync](https://github.com/aldycool/NETCoreSync) ⭐ 79 | 🐛 1 | 🌐 Dart | 📅 2022-12-08 - 面向多个客户端的集中式数据库同步框架，基于 [Moor](https://github.com/simolus3/moor) ⭐ 3,291 | 🐛 203 | 🌐 Dart | 📅 2026-10-14 库，由 [Aldy J](https://github.com/aldycool) 开发。
 
 ### 动画
 
 * [SpinKit](https://github.com/jogboms/flutter_spinkit) ⭐ 3,150 | 🐛 16 | 🌐 Dart | 📅 2026-06-22 \[2405⭐] - 由 [Jeremiah Ogbomo](https://twitter.com/jogboms) 开发的动画加载指示器。
 * [AnimatedTextKit](https://github.com/aagarwal1012/Animated-Text-Kit) ⭐ 1,775 | 🐛 84 | 🌐 Dart | 📅 2025-10-04 \[1268⭐] - 由 [Ayush Agarwal](https://github.com/aagarwal1012/) 开发的一组酷炫文本动画。
-* [Staggered Animations](https://github.com/mobiten/flutter_staggered_animations) ⭐ 1,676 | 🐛 11 | 🌐 Dart | 📅 2023-03-22 \[977⭐] - 由 [mobiten](https://mobiten.com/) 开发，轻松为您的 ListView、GridView、Column 和 Row 添加交错动画。
+* [Staggered Animations](https://github.com/mobiten/flutter_staggered_animations) ⭐ 1,675 | 🐛 11 | 🌐 Dart | 📅 2023-03-22 \[977⭐] - 由 [mobiten](https://mobiten.com/) 开发，轻松为您的 ListView、GridView、Column 和 Row 添加交错动画。
 * [Simple Animations](https://github.com/felixblaschke/simple_animations) ⭐ 1,057 | 🐛 0 | 🌐 Dart | 📅 2026-05-23 - 由 [Felix Blaschke](https://github.com/felixblaschke) 开发，轻松创建令人赞叹的自定义动画。
 * [Funvas](https://github.com/creativecreatorormaybenot/funvas) ⭐ 557 | 🐛 1 | 🌐 Dart | 📅 2026-03-14 \[361⭐] - 由 [creativecreatorormaybenot](https://twitter.com/creativemaybeno) 开发，创建有趣的基于时间的画布动画。
 * [Drawing Animation](https://github.com/biocarl/drawing_animation) ⭐ 514 | 🐛 13 | 🌐 C++ | 📅 2025-08-22 \[384⭐] - 基于 SVG 路径数据创建绘制线条动画，由 [Carl Hauck](https://twitter.com/cahaucks) 开发。
@@ -561,7 +561,7 @@
 
 ### 游戏引擎
 
-* [Flame](https://github.com/luanpotter/flame) ⭐ 10,785 | 🐛 83 | 🌐 Dart | 📅 2026-10-13 \[5173⭐] - 极简主义的游戏引擎，由 [Luan Nico](https://github.com/luanpotter)提供。
+* [Flame](https://github.com/luanpotter/flame) ⭐ 10,786 | 🐛 78 | 🌐 Dart | 📅 2026-10-14 \[5173⭐] - 极简主义的游戏引擎，由 [Luan Nico](https://github.com/luanpotter)提供。
 * [SpriteWidget](https://github.com/spritewidget/spritewidget) ⭐ 1,239 | 🐛 15 | 🌐 Dart | 📅 2022-07-23 \[1186⭐] - 用于构建复杂，高性能动画和2D游戏的工具包，由[Viktor Lidholt](https://github.com/vlidholt)提供。
 
 ### 开源游戏
@@ -570,7 +570,7 @@
 * [Crush](https://github.com/boeledi/flutter_crush) ⭐ 613 | 🐛 1 | 🌐 Dart | 📅 2024-04-02 \[409⭐] - 如 Candy Crush、Bejeweled 一样构建 Math-3 游戏的示例，由 [Didier Boelens](https://didierboelens.com) 开发。
 * [2048](https://github.com/anuranBarman/2048) ⭐ 376 | 🐛 6 | 🌐 Dart | 📅 2021-10-11 \[205⭐] - 2048 游戏，由 [Anuran Barman](https://github.com/anuranBarman) 开发。
 * [Flip](https://github.com/RedBrogdon/flutterflip) ⭐ 271 | 🐛 0 | 🌐 Dart | 📅 2026-06-28 \[201⭐] - Reversi 游戏，由 [Andrew Brogdon](https://github.com/RedBrogdon) 开发。
-* [Ghost Rigger](https://github.com/Float-like-a-dash-Sting-like-a-dart/GhostRigger) ⭐ 266 | 🐛 0 | 🌐 Dart | 📅 2020-07-10 \[159⭐] - 像素朋克风格的拼图游戏，由 [Iain Smith](https://github.com/b099l3) 和 [Julio Ernesto Rodríguez Cabañas](https://github.com/ernestoyaquello) 开发。
+* [Ghost Rigger](https://github.com/Float-like-a-dash-Sting-like-a-dart/GhostRigger) ⭐ 265 | 🐛 0 | 🌐 Dart | 📅 2020-07-10 \[159⭐] - 像素朋克风格的拼图游戏，由 [Iain Smith](https://github.com/b099l3) 和 [Julio Ernesto Rodríguez Cabañas](https://github.com/ernestoyaquello) 开发。
 * [Party Charades](https://github.com/vintage/party_flutter) ⭐ 209 | 🐛 0 | 🌐 Dart | 📅 2019-10-25 \[165⭐] - 派对字谜游戏，由 [Kamil Rykowski](https://github.com/vintage) 开发。
 * [Slide Puzzle](https://github.com/kevmoo/slide_puzzle) ⭐ 179 | 🐛 0 | 🌐 Dart | 📅 2026-09-24 \[152⭐] - 经典的滑块（15）拼图游戏，由 [Kevin Moore](https://github.com/kevmoo) 开发。
 * [Space Empires](https://github.com/satyamx64/space_empires) ⭐ 109 | 🐛 1 | 🌐 Dart | 📅 2022-04-13 \[32⭐] - 一款 4X 太空主题的策略游戏，由 [Satyam Sharma](https://github.com/satyamx64) 开发。
@@ -578,27 +578,27 @@
 
 #### 游戏引擎资源
 
-* [Awesome Flame](https://github.com/flame-engine/awesome-flame) ⭐ 1,387 | 🐛 0 | 📅 2026-10-04<!--stargazers:flame-engine/awesome-flame--> - Flame 游戏引擎的精选列表，包含最佳 Flame 游戏、项目、库、工具、教程、文章等，由 [Flame Engine](https://github.com/flame-engine) 维护。
+* [Awesome Flame](https://github.com/flame-engine/awesome-flame) ⭐ 1,388 | 🐛 0 | 📅 2026-10-14<!--stargazers:flame-engine/awesome-flame--> - Flame 游戏引擎的精选列表，包含最佳 Flame 游戏、项目、库、工具、教程、文章等，由 [Flame Engine](https://github.com/flame-engine) 维护。
 
 ## 开源App
 
 ### 高级
 
-* [AppFlowy](https://github.com/AppFlowy-IO/appflowy) ⭐ 77,284 | 🐛 1,037 | 🌐 Dart | 📅 2026-10-08 \[12156⭐] - 开源的 Notion 替代方案。你对数据和自定义有绝对控制。使用 Flutter 和 Rust 构建，由 [AppFlowy 团队](https://www.appflowy.io/) 开发。
-* [History Of Everything](https://github.com/2d-inc/HistoryOfEverything) ⭐ 6,577 | 🐛 56 | 🌐 Dart | 📅 2021-09-22 \[5887⭐] - 人类历史的动画垂直时间线，由 [2D, Inc](https://www.2dimensions.com/) 开发。
+* [AppFlowy](https://github.com/AppFlowy-IO/appflowy) ⭐ 77,317 | 🐛 1,034 | 🌐 Dart | 📅 2026-10-08 \[12156⭐] - 开源的 Notion 替代方案。你对数据和自定义有绝对控制。使用 Flutter 和 Rust 构建，由 [AppFlowy 团队](https://www.appflowy.io/) 开发。
+* [History Of Everything](https://github.com/2d-inc/HistoryOfEverything) ⭐ 6,576 | 🐛 56 | 🌐 Dart | 📅 2021-09-22 \[5887⭐] - 人类历史的动画垂直时间线，由 [2D, Inc](https://www.2dimensions.com/) 开发。
 * [Developer Quest](https://github.com/2d-inc/developer_quest) ⭐ 2,969 | 🐛 35 | 🌐 Dart | 📅 2021-05-05 \[2917⭐] - 成为技术领导者，消灭虫子，由 [2D, Inc](https://www.2dimensions.com/) 开发。
 
 ### Top
 
-* [Flutter Common Widgets](https://github.com/alibaba/flutter-common-widgets-app) ⭐ 23,626 | 🐛 193 | 🌐 Dart | 📅 2023-12-11 \[22040⭐] - 收集中文官方小部件演示和文档，以帮助开发人员快速学习，由[Alibaba Auction Frontend Team](https://github.com/alibaba-paimai-frontend)。
-* [Flutter Team Samples](https://github.com/flutter/samples) ⭐ 19,275 | 🐛 18 | 🌐 Dart | 📅 2026-10-08 \[8245⭐] - 示例集合（包括地图，json，Material和Cupertino） 由 [Flutter team](https://github.com/orgs/flutter/people)提供。
+* [Flutter Common Widgets](https://github.com/alibaba/flutter-common-widgets-app) ⭐ 23,625 | 🐛 193 | 🌐 Dart | 📅 2023-12-11 \[22040⭐] - 收集中文官方小部件演示和文档，以帮助开发人员快速学习，由[Alibaba Auction Frontend Team](https://github.com/alibaba-paimai-frontend)。
+* [Flutter Team Samples](https://github.com/flutter/samples) ⭐ 19,277 | 🐛 18 | 🌐 Dart | 📅 2026-10-08 \[8245⭐] - 示例集合（包括地图，json，Material和Cupertino） 由 [Flutter team](https://github.com/orgs/flutter/people)提供。
 * [Fwitter](https://github.com/TheAlphamerc/flutter_twitter_clone) ⭐ 4,240 | 🐛 36 | 🌐 Dart | 📅 2024-07-31 \[852⭐] - 使用Firebase解决方案的完整Twitter克隆，由[Sonu Sharma](https://github.com/TheAlphamerc)提供。
-* [GitJournal](https://github.com/GitJournal/GitJournal) ⭐ 4,238 | 🐛 132 | 🌐 Dart | 📅 2026-05-26 \[507⭐] - 在Git Repo中记录数据，由[Vishesh Handa](https://github.com/vHanda)提供。
-* [AuthPass](https://github.com/authpass/authpass) ⭐ 2,803 | 🐛 170 | 🌐 Dart | 📅 2026-09-15 \[372⭐] - 与手机和台式机兼容的Keepass密码管理器，由[hpoul](https://github.com/hpoul)提供。
+* [GitJournal](https://github.com/GitJournal/GitJournal) ⭐ 4,239 | 🐛 133 | 🌐 Dart | 📅 2026-05-26 \[507⭐] - 在Git Repo中记录数据，由[Vishesh Handa](https://github.com/vHanda)提供。
+* [AuthPass](https://github.com/authpass/authpass) ⭐ 2,804 | 🐛 170 | 🌐 Dart | 📅 2026-09-15 \[372⭐] - 与手机和台式机兼容的Keepass密码管理器，由[hpoul](https://github.com/hpoul)提供。
 * [Pokedex](https://github.com/scitbiz/flutter_pokedex) ⭐ 2,527 | 🐛 0 | 🌐 Dart | 📅 2026-04-03 - Pokedex应用程序具有精美的用户界面和流畅的动画，由[Hung Pham](https://github.com/scitbiz)提供。
 * [FlutterGram](https://github.com/mdanics/fluttergram) ⭐ 2,384 | 🐛 9 | 🌐 Dart | 📅 2024-08-07 \[1454⭐] - 使用Firebase / Firestore实现Flutter版的Instagram App，由[MDanics](https://github.com/mdanics)提供。
-* [Timy Messenger](https://github.com/janoodleFTW/timy-messenger) ⭐ 2,104 | 🐛 21 | 🌐 Dart | 📅 2023-01-09 \[1504⭐] - 群发消息应用程序，重点是组织活动，由[Miguel Beltran](https://github.com/miquelbeltran) 与 [Franz Heinfling](https://github.com/fheinfling)提供。
-* [Harpy](https://github.com/robertodoering/harpy) ⭐ 2,078 | 🐛 3 | 🌐 Dart | 📅 2024-08-01 \[825⭐] - 由[Roberto Doering](https://github.com/robertodoering)开发的功能丰富的Twitter客户端。
+* [Timy Messenger](https://github.com/janoodleFTW/timy-messenger) ⭐ 2,105 | 🐛 21 | 🌐 Dart | 📅 2023-01-09 \[1504⭐] - 群发消息应用程序，重点是组织活动，由[Miguel Beltran](https://github.com/miquelbeltran) 与 [Franz Heinfling](https://github.com/fheinfling)提供。
+* [Harpy](https://github.com/robertodoering/harpy) ⭐ 2,079 | 🐛 3 | 🌐 Dart | 📅 2024-08-01 \[825⭐] - 由[Roberto Doering](https://github.com/robertodoering)开发的功能丰富的Twitter客户端。
 * [Music Player](https://github.com/iampawan/Flutter-Music-Player) ⭐ 1,790 | 🐛 32 | 🌐 Dart | 📅 2024-01-15 \[1112⭐] - 全功能音乐播放器App，由[Pawan Kumar](https://about.me/imthepk)提供。
 * [WhatTodo](https://github.com/burhanrashid52/WhatTodo) ⭐ 1,266 | 🐛 13 | 🌐 Dart | 📅 2026-02-12 \[761⭐] - Flutter实现的的简单Todo App，可以每天跟踪您的任务，由[Burhanuddin Rashid](https://about.me/burhanrashid52)提供。
 * [Trace](https://github.com/trentpiercy/trace) ⭐ 1,150 | 🐛 17 | 🌐 Dart | 📅 2023-03-07 \[573⭐] - 现代而强大的加密投资组合和市场资源管理器，由 [Trent Piercy](https://github.com/trentpiercy)提供。
@@ -617,7 +617,7 @@
 * [Deer](https://github.com/aleksanderwozniak/deer) ⭐ 459 | 🐛 0 | 🌐 Dart | 📅 2020-11-11 \[238⭐] - 使用BLoC模式构建的简约Todo Planner，由[Aleksander Woźniak](https://github.com/aleksanderwozniak)提供。
 * [Enigma](https://github.com/AmitJoki/Enigma) ⭐ 401 | 🐛 17 | 🌐 Dart | 📅 2023-01-09 - 端到端加密的隐私聊天，由[AmitJoki](https://github.com/AmitJoki)。
 * [Lime](https://github.com/fablue/lime-flutter) ⭐ 371 | 🐛 12 | 🌐 Dart | 📅 2018-05-31 \[335⭐] - 使用Flutter开发的Lime客户端。
-* [TailorMade](https://github.com/jogboms/tailor_made) ⭐ 338 | 🐛 3 | 🌐 Dart | 📅 2023-08-15 \[210⭐] - 结合使用ReBLoC和Firebase Cloud Store和功能来管理时装设计师的日常工作，由[Jeremiah Ogbomo](https://twitter.com/jogboms)。
+* [TailorMade](https://github.com/jogboms/tailor_made) ⭐ 337 | 🐛 3 | 🌐 Dart | 📅 2023-08-15 \[210⭐] - 结合使用ReBLoC和Firebase Cloud Store和功能来管理时装设计师的日常工作，由[Jeremiah Ogbomo](https://twitter.com/jogboms)。
 * [Tourism](https://github.com/bluemix/tourism-demo) ⭐ 307 | 🐛 2 | 🌐 Dart | 📅 2018-10-25 \[213⭐] - 基于redux w / animations＆i18n的旅游应用程序，由 [blueMix](https://github.com/bluemix/tourism-demo) ⭐ 307 | 🐛 2 | 🌐 Dart | 📅 2018-10-25提供。
 * [Superhero Interaction](https://github.com/pinkeshdarji/SuperHeroInteraction) ⭐ 217 | 🐛 2 | 🌐 Dart | 📅 2019-05-27 \[208⭐] - 酷超级英雄互动动画，由[Pinkesh Darji](https://github.com/pinkeshdarji)提供。
 * [Instory](https://github.com/InvertedX/instory) ⚠️ Archived \[173⭐] - 具有精美UI的Instagram故事下载器，由[Sarath](https://twitter.com/_sarath_kumar)提供。
@@ -626,13 +626,13 @@
 
 ## 实用工具
 
-* [FVM](https://github.com/leoafarias/fvm) ⭐ 5,532 | 🐛 35 | 🌐 Dart | 📅 2026-10-13 \[2233⭐] - Flutter版本管理：一个简单的命令行工具，用于管理Flutter SDK的版本。
-* [Very Good Cli](https://github.com/VeryGoodOpenSource/very_good_cli) ⭐ 2,426 | 🐛 11 | 🌐 Dart | 📅 2026-10-13 \[1135⭐] - Dart的非常好的命令行界面工具，由 [Very Good Ventures](https://github.com/VeryGoodOpenSource) 创建。
+* [FVM](https://github.com/leoafarias/fvm) ⭐ 5,532 | 🐛 35 | 🌐 Dart | 📅 2026-10-14 \[2233⭐] - Flutter版本管理：一个简单的命令行工具，用于管理Flutter SDK的版本。
+* [Very Good Cli](https://github.com/VeryGoodOpenSource/very_good_cli) ⭐ 2,426 | 🐛 13 | 🌐 Dart | 📅 2026-10-14 \[1135⭐] - Dart的非常好的命令行界面工具，由 [Very Good Ventures](https://github.com/VeryGoodOpenSource) 创建。
 * [Launcher Icons](https://github.com/franzsilva/flutter_launcher_icons) ⭐ 2,124 | 🐛 145 | 🌐 Dart | 📅 2025-06-10 - 由 [Mark O'Sullivan](https://github.com/MarkOSullivan94) 和 [Franz Silva](https://github.com/franzsilva) 轻松生成应用程序的启动器图标。
-* [Flutter Sidekick](https://github.com/leoafarias/sidekick) ⭐ 1,689 | 🐛 35 | 🌐 Dart | 📅 2026-10-10 \[544⭐] - 简单的应用程序，使Flutter开发更加愉快，由 [Leo Farias](https://github.com/leoafarias) 创建。
+* [Flutter Sidekick](https://github.com/leoafarias/sidekick) ⭐ 1,689 | 🐛 28 | 🌐 Dart | 📅 2026-10-14 \[544⭐] - 简单的应用程序，使Flutter开发更加愉快，由 [Leo Farias](https://github.com/leoafarias) 创建。
 * [FlutterGen](https://github.com/FlutterGen/flutter_gen) ⭐ 1,580 | 🐛 37 | 🌐 Dart | 📅 2026-10-13 \[791⭐] - 用于生成图像、字体、颜色等的资产代码的生成器，摆脱基于字符串的API。
 * [Dart Code Metrics](https://github.com/dart-code-checker/dart-code-metrics) ⚠️ Archived \[430⭐] - 附加的代码度量标准检查工具，检查代码度量、反模式，并为Dart分析器提供额外的规则，由 [Dart Code Checker团队](https://github.com/dart-code-checker) 创建。
-* [Flutter Flavorizr](https://github.com/AngeloAvv/flutter_flavorizr) ⭐ 571 | 🐛 30 | 🌐 Dart | 📅 2026-10-13 \[160⭐] - CLI实用工具，可在不到3分钟的时间内轻松为Android和iOS生成不同的应用程序风格，由 [Angelo Cassano](https://github.com/AngeloAvv) 创建。
+* [Flutter Flavorizr](https://github.com/AngeloAvv/flutter_flavorizr) ⭐ 571 | 🐛 29 | 🌐 Dart | 📅 2026-10-14 \[160⭐] - CLI实用工具，可在不到3分钟的时间内轻松为Android和iOS生成不同的应用程序风格，由 [Angelo Cassano](https://github.com/AngeloAvv) 创建。
 * [Fontify](https://github.com/westracer/fontify) ⚠️ Archived \[77⭐] - CLI工具，用于将SVG图标转换为OTF字体并生成适用于Flutter的类，由 [Igor Kharakhordin](https://github.com/westracer) 创建。
 * [Environment Configuration](https://github.com/TatsuUkraine/dart_environment_config) ⭐ 90 | 🐛 4 | 🌐 Dart | 📅 2026-09-16 \[86⭐] - CLI工具，用于为应用程序环境生成`.env`配置文件，由 [TatsuUkraine](https://github.com/TatsuUkraine) 创建。
 * [json-to-dart](https://www.devio.org/io/tools/json-to-dart/) - JSON在线转Dart工具，支持空安全![ new](http://www.devio.org/img/ico/ico_new.gif)。
@@ -652,11 +652,11 @@
 ### 桌面应用
 
 * [Desktop Embedding](https://github.com/google/flutter-desktop-embedding) ⚠️ Archived \[6950⭐] - Google提供的Flutter嵌入API的桌面实现。
-* [Golang Desktop Embedder](https://github.com/go-flutter-desktop/go-flutter) ⭐ 5,930 | 🐛 65 | 🌐 Go | 📅 2026-10-09 \[5083⭐] - Golang桌面应用的Flutter嵌入器，由[Pierre Champion](https://github.com/pchampio)开发。
-* [Fluent UI](https://github.com/bdlukaa/fluent_ui) ⭐ 3,471 | 🐛 28 | 🌐 Dart | 📅 2026-09-28 \[566⭐] - Microsoft的Fluent Design System在Flutter中的实现，由[Bruno D'Luka](https://twitter.com/bdlukaadev)开发。
-* [MacOS UI](https://github.com/GroovinChip/macos_ui) ⭐ 2,135 | 🐛 70 | 🌐 Dart | 📅 2026-08-22 \[492⭐] - 实现当前MacOS设计语言的小部件和主题，由[Groovin Chip](https://twitter.com/GroovinChip)开发。
+* [Golang Desktop Embedder](https://github.com/go-flutter-desktop/go-flutter) ⭐ 5,931 | 🐛 65 | 🌐 Go | 📅 2026-10-09 \[5083⭐] - Golang桌面应用的Flutter嵌入器，由[Pierre Champion](https://github.com/pchampio)开发。
+* [Fluent UI](https://github.com/bdlukaa/fluent_ui) ⭐ 3,473 | 🐛 28 | 🌐 Dart | 📅 2026-09-28 \[566⭐] - Microsoft的Fluent Design System在Flutter中的实现，由[Bruno D'Luka](https://twitter.com/bdlukaadev)开发。
+* [MacOS UI](https://github.com/GroovinChip/macos_ui) ⭐ 2,134 | 🐛 70 | 🌐 Dart | 📅 2026-08-22 \[492⭐] - 实现当前MacOS设计语言的小部件和主题，由[Groovin Chip](https://twitter.com/GroovinChip)开发。
 * [Rust Desktop Embedder](https://github.com/gliheng/flutter-rs) ⭐ 2,112 | 🐛 42 | 🌐 Rust | 📅 2023-06-14 \[1871⭐] - Rust桌面应用的Flutter嵌入器，由[juju](https://github.com/gliheng)开发。
-* [Raspberry Pi Embedder](https://github.com/ardera/flutter-pi) ⭐ 2,007 | 🐛 127 | 🌐 C | 📅 2026-09-17 \[747⭐] - 适用于树莓派的轻量级嵌入器，由[Hannes Winkler](https://github.com/ardera)开发。
+* [Raspberry Pi Embedder](https://github.com/ardera/flutter-pi) ⭐ 2,008 | 🐛 127 | 🌐 C | 📅 2026-09-17 \[747⭐] - 适用于树莓派的轻量级嵌入器，由[Hannes Winkler](https://github.com/ardera)开发。
 * [Awesome Flutter Desktop](https://github.com/leanflutter/awesome-flutter-desktop) ⭐ 1,711 | 🐛 0 | 📅 2025-03-30 \[516⭐] - 与Flutter桌面相关的精选资源列表，由[LeanFlutter](https://github.com/leanflutter)维护。
 * [bitsdojo\_window](https://github.com/bitsdojo/bitsdojo_window) ⭐ 841 | 🐛 120 | 🌐 Dart | 📅 2023-12-24 <!--bitsdojo/bitsdojo_window--> - 自定义Windows窗口的绘制样式，由[BitsDojo](https://github.com/bitsdojo)开发。
 * [Native Shell](https://github.com/nativeshell/nativeshell) ⭐ 663 | 🐛 37 | 🌐 Rust | 📅 2025-04-21 \[372⭐] - Flutter的实验性嵌入器，由[Matej Knopp](https://twitter.com/matejknopp)开发。
@@ -741,4 +741,4 @@
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-13._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-14._
