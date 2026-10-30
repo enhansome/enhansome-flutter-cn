@@ -82,7 +82,7 @@
                 "open_issues": 1,
                 "owner": "olexale",
                 "repo": "flutter_roadmap",
-                "stars": 5942,
+                "stars": 5943,
                 "topics": []
               },
               "first_seen": "2026-08-28T21:10:05.488Z"
@@ -103,7 +103,7 @@
                 "open_issues": 0,
                 "owner": "antz22",
                 "repo": "ultimate-guide-to-flutter",
-                "stars": 483,
+                "stars": 484,
                 "topics": [
                   "app-development",
                   "dart",
@@ -206,7 +206,7 @@
                 "open_issues": 20,
                 "owner": "X-Wei",
                 "repo": "flutter_catalog",
-                "stars": 2286,
+                "stars": 2285,
                 "topics": [
                   "firebase",
                   "flutter",
@@ -415,7 +415,7 @@
                 "open_issues": 8,
                 "owner": "Ivaskuu",
                 "repo": "tinder_cards",
-                "stars": 983,
+                "stars": 984,
                 "topics": []
               },
               "first_seen": "2026-08-28T21:10:05.488Z"
@@ -592,7 +592,7 @@
                 "language": "Dart",
                 "license": "MIT",
                 "last_commit": "2025-12-14T01:06:45Z",
-                "open_issues": 23,
+                "open_issues": 24,
                 "owner": "bosskmk",
                 "repo": "pluto_grid",
                 "stars": 744,
@@ -1220,7 +1220,7 @@
                     "open_issues": 160,
                     "owner": "jamesblasco",
                     "repo": "modal_bottom_sheet",
-                    "stars": 1971,
+                    "stars": 1972,
                     "topics": [
                       "cupertino",
                       "dart",
@@ -1670,7 +1670,7 @@
                     "open_issues": 38,
                     "owner": "hnvn",
                     "repo": "flutter_shimmer",
-                    "stars": 1860,
+                    "stars": 1861,
                     "topics": [
                       "animation",
                       "dart",
@@ -1696,7 +1696,7 @@
                     "open_issues": 7,
                     "owner": "iamSahdeep",
                     "repo": "liquid_swipe_flutter",
-                    "stars": 1267,
+                    "stars": 1266,
                     "topics": [
                       "flutter",
                       "flutter-app",
@@ -1864,7 +1864,7 @@
                     "open_issues": 125,
                     "owner": "aleksanderwozniak",
                     "repo": "table_calendar",
-                    "stars": 1958,
+                    "stars": 1957,
                     "topics": [
                       "calendar",
                       "calendar-view",
@@ -2071,7 +2071,7 @@
                 "open_issues": 327,
                 "owner": "Baseflow",
                 "repo": "flutter_cached_network_image",
-                "stars": 2589,
+                "stars": 2590,
                 "topics": [
                   "baseflow",
                   "caching",
@@ -2098,7 +2098,7 @@
                 "open_issues": 120,
                 "owner": "bluefireteam",
                 "repo": "photo_view",
-                "stars": 1998,
+                "stars": 1999,
                 "topics": [
                   "flutter",
                   "gallery",
@@ -2158,7 +2158,7 @@
                 "open_issues": 247,
                 "owner": "dnfield",
                 "repo": "flutter_svg",
-                "stars": 1688,
+                "stars": 1687,
                 "topics": [
                   "dart",
                   "flutter",
@@ -2325,7 +2325,7 @@
                     "open_issues": 1,
                     "owner": "flutter-team-archive",
                     "repo": "plugins",
-                    "stars": 17712,
+                    "stars": 17711,
                     "topics": [
                       "android",
                       "dart",
@@ -2516,7 +2516,7 @@
                 "language": "Dart",
                 "license": "MIT",
                 "last_commit": "2026-10-21T15:27:53Z",
-                "open_issues": 391,
+                "open_issues": 392,
                 "owner": "imaNNeo",
                 "repo": "fl_chart",
                 "stars": 7592,
@@ -2893,7 +2893,7 @@
                 "open_issues": 1,
                 "owner": "flutter-team-archive",
                 "repo": "plugins",
-                "stars": 17712,
+                "stars": 17711,
                 "topics": [
                   "android",
                   "dart",
@@ -2921,7 +2921,7 @@
                 "open_issues": 1,
                 "owner": "flutter-team-archive",
                 "repo": "plugins",
-                "stars": 17712,
+                "stars": 17711,
                 "topics": [
                   "android",
                   "dart",
@@ -2949,7 +2949,7 @@
                 "open_issues": 1,
                 "owner": "flutter-team-archive",
                 "repo": "plugins",
-                "stars": 17712,
+                "stars": 17711,
                 "topics": [
                   "android",
                   "dart",
@@ -3140,7 +3140,7 @@
                 "open_issues": 220,
                 "owner": "memspace",
                 "repo": "zefyr",
-                "stars": 2220,
+                "stars": 2221,
                 "topics": [
                   "dartlang",
                   "flutter",
@@ -3165,7 +3165,7 @@
                 "open_issues": 100,
                 "owner": "simc",
                 "repo": "auto_size_text",
-                "stars": 2136,
+                "stars": 2137,
                 "topics": [
                   "android",
                   "flutter",
@@ -3372,7 +3372,7 @@
                 "open_issues": 83,
                 "owner": "firebase",
                 "repo": "flutterfire",
-                "stars": 9264,
+                "stars": 9265,
                 "topics": [
                   "dart",
                   "firebase",
@@ -3719,10 +3719,10 @@
                     "language": "C++",
                     "license": "MIT",
                     "last_commit": "2026-10-27T08:16:20Z",
-                    "open_issues": 732,
+                    "open_issues": 733,
                     "owner": "flutter-webrtc",
                     "repo": "flutter-webrtc",
-                    "stars": 4500,
+                    "stars": 4501,
                     "topics": [
                       "android",
                       "desktop",
@@ -3753,7 +3753,7 @@
                     "open_issues": 431,
                     "owner": "fluttercommunity",
                     "repo": "chewie",
-                    "stars": 2067,
+                    "stars": 2068,
                     "topics": [
                       "flutter",
                       "video-player"
@@ -3777,7 +3777,7 @@
                     "open_issues": 201,
                     "owner": "Apparence-io",
                     "repo": "CamerAwesome",
-                    "stars": 1219,
+                    "stars": 1220,
                     "topics": [
                       "camera",
                       "cross-platform",
@@ -3876,7 +3876,7 @@
                 "open_issues": 1,
                 "owner": "flutter-team-archive",
                 "repo": "plugins",
-                "stars": 17712,
+                "stars": 17711,
                 "topics": [
                   "android",
                   "dart",
@@ -3904,7 +3904,7 @@
                 "open_issues": 24,
                 "owner": "juliansteenbakker",
                 "repo": "flutter_secure_storage",
-                "stars": 1289,
+                "stars": 1290,
                 "topics": [
                   "dart",
                   "dartlang",
@@ -3965,7 +3965,7 @@
                 "open_issues": 83,
                 "owner": "firebase",
                 "repo": "flutterfire",
-                "stars": 9264,
+                "stars": 9265,
                 "topics": [
                   "dart",
                   "firebase",
@@ -4216,7 +4216,7 @@
             "open_issues": 7,
             "owner": "JideGuru",
             "repo": "FlutterFoodybite",
-            "stars": 1717,
+            "stars": 1718,
             "topics": [
               "android",
               "cross-platform-app",
@@ -4959,7 +4959,7 @@
             "open_issues": 1,
             "owner": "flutter-team-archive",
             "repo": "plugins",
-            "stars": 17712,
+            "stars": 17711,
             "topics": [
               "android",
               "dart",
@@ -5017,7 +5017,7 @@
                 "language": "Dart",
                 "license": "MIT",
                 "last_commit": "2026-10-28T08:44:06Z",
-                "open_issues": 163,
+                "open_issues": 164,
                 "owner": "Baseflow",
                 "repo": "flutter-permission-handler",
                 "stars": 2176,
@@ -5045,8 +5045,8 @@
                 "id": 138361535,
                 "language": "Dart",
                 "license": "MIT",
-                "last_commit": "2026-10-29T16:01:07Z",
-                "open_issues": 10,
+                "last_commit": "2026-10-30T06:31:53Z",
+                "open_issues": 12,
                 "owner": "vicajilau",
                 "repo": "flutter_file_picker",
                 "stars": 1571,
@@ -5627,8 +5627,8 @@
                 "id": 168944140,
                 "language": "Dart",
                 "license": "MIT",
-                "last_commit": "2026-10-29T15:12:39Z",
-                "open_issues": 202,
+                "last_commit": "2026-10-29T19:28:03Z",
+                "open_issues": 208,
                 "owner": "simolus3",
                 "repo": "drift",
                 "stars": 3298,
@@ -5795,7 +5795,7 @@
                     "open_issues": 89,
                     "owner": "felangel",
                     "repo": "bloc",
-                    "stars": 12486,
+                    "stars": 12487,
                     "topics": [
                       "angulardart",
                       "bloc",
@@ -5858,7 +5858,7 @@
                     "id": 256184861,
                     "language": "Dart",
                     "license": "MIT",
-                    "last_commit": "2026-10-25T22:26:03Z",
+                    "last_commit": "2026-10-30T15:21:22Z",
                     "open_issues": 172,
                     "owner": "rrousselGit",
                     "repo": "riverpod",
@@ -5986,7 +5986,7 @@
                 "open_issues": 164,
                 "owner": "alibaba",
                 "repo": "fish-redux",
-                "stars": 7258,
+                "stars": 7257,
                 "topics": [
                   "adapter",
                   "aop",
@@ -6415,7 +6415,7 @@
                 "open_issues": 85,
                 "owner": "aagarwal1012",
                 "repo": "Animated-Text-Kit",
-                "stars": 1775,
+                "stars": 1776,
                 "topics": [
                   "animated-text-kit",
                   "animation",
@@ -6699,8 +6699,8 @@
                 "id": 107833072,
                 "language": "Dart",
                 "license": "MIT",
-                "last_commit": "2026-10-29T16:48:25Z",
-                "open_issues": 87,
+                "last_commit": "2026-10-29T17:16:11Z",
+                "open_issues": 96,
                 "owner": "flame-engine",
                 "repo": "flame",
                 "stars": 10809,
@@ -6857,7 +6857,7 @@
                 "open_issues": 0,
                 "owner": "Float-like-a-dash-Sting-like-a-dart",
                 "repo": "GhostRigger",
-                "stars": 265,
+                "stars": 266,
                 "topics": [
                   "flame",
                   "flame-engine",
@@ -6988,7 +6988,7 @@
                     "open_issues": 0,
                     "owner": "flame-engine",
                     "repo": "awesome-flame",
-                    "stars": 1393,
+                    "stars": 1394,
                     "topics": [
                       "awesome",
                       "awesome-list",
@@ -7033,10 +7033,10 @@
                 "language": "Dart",
                 "license": "AGPL-3.0",
                 "last_commit": "2026-10-28T06:07:27Z",
-                "open_issues": 1020,
+                "open_issues": 1022,
                 "owner": "AppFlowy-IO",
                 "repo": "AppFlowy",
-                "stars": 77937,
+                "stars": 77993,
                 "topics": [
                   "blog",
                   "confluence-alternative",
@@ -7070,7 +7070,7 @@
                 "open_issues": 56,
                 "owner": "2d-inc",
                 "repo": "HistoryOfEverything",
-                "stars": 6576,
+                "stars": 6577,
                 "topics": []
               },
               "first_seen": "2026-08-28T21:10:05.488Z"
@@ -7119,7 +7119,7 @@
                 "open_issues": 193,
                 "owner": "alibaba",
                 "repo": "flutter-go",
-                "stars": 23617,
+                "stars": 23616,
                 "topics": [
                   "dart",
                   "flutter",
@@ -7198,7 +7198,7 @@
                 "open_issues": 36,
                 "owner": "TheAlphamerc",
                 "repo": "flutter_twitter_clone",
-                "stars": 4242,
+                "stars": 4241,
                 "topics": [
                   "firebase-auth",
                   "firebase-realtime-database",
@@ -7303,7 +7303,7 @@
                 "open_issues": 9,
                 "owner": "mdanics",
                 "repo": "fluttergram",
-                "stars": 2385,
+                "stars": 2386,
                 "topics": [
                   "dart",
                   "firebase",
@@ -7389,7 +7389,7 @@
                 "open_issues": 32,
                 "owner": "iampawan",
                 "repo": "Flutter-Music-Player",
-                "stars": 1788,
+                "stars": 1789,
                 "topics": [
                   "android",
                   "cross-platform",
@@ -7631,7 +7631,7 @@
                 "open_issues": 6,
                 "owner": "theankurkedia",
                 "repo": "newsbuzz",
-                "stars": 597,
+                "stars": 598,
                 "topics": [
                   "dart",
                   "firebase",
@@ -8033,11 +8033,11 @@
             "id": 172011048,
             "language": "Dart",
             "license": "MIT",
-            "last_commit": "2026-10-23T20:15:34Z",
+            "last_commit": "2026-10-29T20:11:53Z",
             "open_issues": 34,
             "owner": "btwld",
             "repo": "fvm",
-            "stars": 5540,
+            "stars": 5539,
             "topics": [
               "cli",
               "dart",
@@ -8062,11 +8062,11 @@
             "id": 334282617,
             "language": "Dart",
             "license": "MIT",
-            "last_commit": "2026-10-29T12:50:13Z",
-            "open_issues": 18,
+            "last_commit": "2026-10-30T10:30:52Z",
+            "open_issues": 19,
             "owner": "VeryGoodOpenSource",
             "repo": "very_good_cli",
-            "stars": 2427,
+            "stars": 2426,
             "topics": [
               "cli",
               "dart",
@@ -8343,7 +8343,7 @@
                 "open_issues": 3,
                 "owner": "google",
                 "repo": "flutter-desktop-embedding",
-                "stars": 7035,
+                "stars": 7034,
                 "topics": []
               },
               "first_seen": "2026-08-28T21:10:05.488Z"
@@ -8428,7 +8428,7 @@
                 "open_issues": 70,
                 "owner": "macosui",
                 "repo": "macos_ui",
-                "stars": 2134,
+                "stars": 2135,
                 "topics": [
                   "flutter",
                   "macos"
@@ -8477,7 +8477,7 @@
                 "open_issues": 131,
                 "owner": "ardera",
                 "repo": "flutter-pi",
-                "stars": 2008,
+                "stars": 2009,
                 "topics": [
                   "digital-signage",
                   "embedded",
@@ -8662,7 +8662,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-29T16:51:07.061Z",
+    "last_updated": "2026-10-30T16:39:36.134Z",
     "original_repository_info": {
       "archived": false,
       "description": "一个很棒的Flutter学习资源，官方教程，插件，工具，文章，App，视频教程等的资源列表",
